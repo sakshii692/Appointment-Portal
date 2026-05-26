@@ -24,24 +24,28 @@ This project includes;
 - Dashboard & Reports
 
 4. Tech Stack;
+ 
 -> Frontend
    - HTML
    - CSS
    - JavaScript
    - Bootstrap
+     
 -> Backend
    - Java
    - Spring Boot
    - REST API
+     
 -> Database
    - MySQL
+     
 -> Tools & Platforms
    - Git & GitHub
    - IntelliJ IDEA / Eclipse
    - Postman
    - Maven
 
-5. System Architecture
+6. System Architecture
 - Frontend sends requests to backend APIs.
 - Spring Boot handles business logic.
 - MySQL stores patient, doctor, and appointment data.
