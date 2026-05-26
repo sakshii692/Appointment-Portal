@@ -2,6 +2,7 @@
 This project facilitates appointment booking by patients and improves interaction between doctors and patients.
 
 This project includes;
+
 1.Patient Module
 - Patient Registration & Login
 - Book Doctor Appointments
